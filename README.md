@@ -15,4 +15,4 @@ You are to write an encoder that takes in a plaintext and encode it to another o
 * To decode it, you need to take the first character for offset and match it backwards to get the original plaintext.
 
 ## Table ##
-[Table](https://user-images.githubusercontent.com/81757215/194070832-9fa9639e-e3bb-43b0-bc17-1368fdba3f16.png)
+Access the reference table using the hyperlink: [Table](https://user-images.githubusercontent.com/81757215/194070832-9fa9639e-e3bb-43b0-bc17-1368fdba3f16.png)
